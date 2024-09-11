@@ -1,6 +1,6 @@
 name: 'Maven Build'
 
-on: Push
+on: push
 
 jobs:
   build:
